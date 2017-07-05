@@ -1,0 +1,17 @@
+{
+    "name": "zpfei/md5hasher",
+    "description": "md5 suppler in laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zpf",
+            "email": "zpfeiv@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zpfei\\Hasher\\": "src/"
+        }
+    },
+}
